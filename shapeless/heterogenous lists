@@ -1,0 +1,17 @@
+1. Option(1), Option("foo")
+
+2. 23, "foo", true
+
+3. 11
+
+4. 1, ("wibble", 45), 3.0
+  1, 3.0
+
+5. true
+
+6. true
+   true
+
+7. List(a,p,a,p)
+
+8. Option(apap)
