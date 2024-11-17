@@ -1,0 +1,39 @@
+1. 6
+   "abc"
+
+2. 6
+
+3. "abc"
+   6
+
+4. 3
+   "123"
+
+5. List(1,2,3,4,5)
+   Option("two")
+
+6. Some(3)
+   None
+
+7. true
+   false
+
+8. true
+   false
+
+9. List(1,2,3)
+   List(42)
+   List()
+
+10. List(1,2)
+    List()
+
+11. Some(value = ())
+    None
+
+12. 10
+    "123"
+
+13. false
+    List(2,3)
+    List(1)
