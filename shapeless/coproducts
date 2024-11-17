@@ -1,0 +1,8 @@
+1. None
+   Option("foo")
+
+2. Option("foo", 3)
+
+3. None
+   Option("foo")
+   None
