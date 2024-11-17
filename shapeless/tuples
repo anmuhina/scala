@@ -1,0 +1,27 @@
+1. 23
+
+2. ("foo",true)
+
+3. Tuple1(true)
+
+4. (23, "foo")
+
+5. (Tuple1(23), ("foo",true))
+
+6. (23, "foo", true)
+
+7. (23, "foo", true)
+
+8. (23, "foo", true, 2.0)
+
+9. (Option(23), Option("foo"), Option(true))
+
+10. (23, "foo", true, 2.0)
+
+11. 11
+
+12. 23, "foo", true, HNil
+
+13. List(23, "foo", true)
+
+14. (23, ("bar", true), 2.0)
