@@ -1,0 +1,4 @@
+1. Option("foo")
+   Option(13)
+
+2. "foo" :: 13 :: HNil
